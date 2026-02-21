@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5IK5bc008F+z5gM9nFWHjat9vCzg3HWCDxNlxo/AYcrV8fqc9UoFhERYJ/zOV2c57vSONc6hiNOSUGXN29/pQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\LJCode\\Lemall.git\\netcore\\NetEZ\\NetEZ.Utility\\NetEZ.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

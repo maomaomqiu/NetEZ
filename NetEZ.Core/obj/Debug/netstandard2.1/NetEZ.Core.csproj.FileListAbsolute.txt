@@ -1,0 +1,14 @@
+F:\project\LJCode\Lemall.git\netcore\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.csprojAssemblyReference.cache
+F:\project\LJCode\Lemall.git\netcore\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.AssemblyInfoInputs.cache
+F:\project\LJCode\Lemall.git\netcore\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.AssemblyInfo.cs
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.csprojAssemblyReference.cache
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.AssemblyInfoInputs.cache
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.AssemblyInfo.cs
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\bin\Debug\netstandard2.1\NetEZ.Core.deps.json
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\bin\Debug\netstandard2.1\NetEZ.Core.dll
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\bin\Debug\netstandard2.1\NetEZ.Utility.dll
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\bin\Debug\netstandard2.1\NetEZ.Utility.pdb
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.csproj.CopyComplete
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\bin\Debug\netstandard2.1\NetEZ.Core.pdb
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.dll
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Core\obj\Debug\netstandard2.1\NetEZ.Core.pdb

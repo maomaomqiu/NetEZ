@@ -1,0 +1,8 @@
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\bin\Release\netstandard2.1\NetEZ.Utility.deps.json
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\bin\Release\netstandard2.1\NetEZ.Utility.dll
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\bin\Release\netstandard2.1\NetEZ.Utility.pdb
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\obj\Release\netstandard2.1\NetEZ.Utility.csprojAssemblyReference.cache
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\obj\Release\netstandard2.1\NetEZ.Utility.AssemblyInfoInputs.cache
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\obj\Release\netstandard2.1\NetEZ.Utility.AssemblyInfo.cs
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\obj\Release\netstandard2.1\NetEZ.Utility.dll
+F:\project\LJCode\Lemall.git\netcore\NetEZ\NetEZ.Utility\obj\Release\netstandard2.1\NetEZ.Utility.pdb
